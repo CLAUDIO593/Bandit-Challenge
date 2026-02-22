@@ -1,0 +1,11 @@
+# Archivos temporales de Linux
+*~
+.DS_Store
+
+# Archivos de respaldo o temporales de editores
+*.swp
+*.tmp
+
+# Ignorar posibles archivos de contraseñas accidentales
+passwords.txt
+secrets/
