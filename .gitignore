@@ -8,4 +8,5 @@
 
 # Ignorar posibles archivos de contraseñas accidentales
 passwords.txt
+password.md
 secrets/
